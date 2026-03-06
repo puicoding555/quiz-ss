@@ -20,4 +20,4 @@ The following routes have been added to `server/src/routes.js`:
 - **DELETE** `/room/:roomId` - Delete a room
 
 ## Usage
-Follow standard setup instructions for Client and Server.
+Follow standard setup instructions for Client and Server..
